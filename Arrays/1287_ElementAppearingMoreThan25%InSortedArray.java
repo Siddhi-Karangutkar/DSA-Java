@@ -1,5 +1,6 @@
 class Solution {
     public int findSpecialInteger(int[] arr) {
+        
         int n = arr.length;
         int count = 0;
         double checkCount = 0.25*n;
